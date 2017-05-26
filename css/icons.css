@@ -1,0 +1,170 @@
+[class^="icon-"],
+[class*=" icon-"] {
+    background-repeat: no-repeat;
+    width: 48px;
+    height: 48px;
+    content: "";
+    position: absolute;
+    left: 0;
+    margin-top: 3px;
+}
+
+.icon-modul-dashboard {
+    background-image: url("../icon/icon-modul-dashboard.png");
+}
+
+.icon-dashboard {
+    background-image: url("../icon/icon_dashboard.png");
+}
+
+.icon-ditoModalKerja {
+    background-image: url("../icon/ModalKerja.png");
+}
+
+.icon-dito {
+    background-image: url("../icon/dashboard.png");
+}
+
+.icon-ditomonkeuangan {
+    background-image: url("../icon/MonitoringKeuangan.png");
+}
+
+.icon-ditomonkontrak {
+    background-image: url("../icon/MonitoringKontrak.png");
+}
+
+.icon-ditomontrans {
+    background-image: url("../icon/MonitoringTransportasidanDistribusi.png");
+}
+
+.icon-ditopaskso {
+    background-image: url("../icon/PascaKSO.png");
+}
+
+.icon-ditoprakso {
+    background-image: url("../icon/PraKSO.png");
+}
+
+.icon-ditostockpile {
+    background-image: url("../icon/StockPile.png");
+}
+
+.icon-ditorakor {
+    background-image: url("../icon/Rakor.png");
+}
+
+.icon-ditotranssi {
+    background-image: url("../icon/SI.png");
+}
+
+.icon-ditobmitra {
+    background-image: url("../icon/BillingMitra.png");
+}
+
+.icon-ditobpltu {
+    background-image: url("../icon/BillingPLTU.png");
+}
+
+.icon-ditohauling {
+    background-image: url("../icon/Hauling.png");
+}
+
+.icon-ditoinvoice {
+    background-image: url("../icon/Invoice.png");
+}
+
+.icon-ditokjs {
+    background-image: url("../icon/KJS.png");
+}
+
+.icon-ditomaster {
+    background-image: url("../icon/Master.png");
+}
+
+.icon-ditolaporan {
+    background-image: url("../icon/Laporan.png");
+}
+
+.icon-ditobpbm {
+    background-image: url("../icon/BillingPBM.png");
+}
+
+.icon-dito-map {
+    background-image: url("../icon/DashboardMap.png");
+}
+
+.icon-ditokontrakmitra {
+    background-image: url("../icon/KontrakMitra.png");
+}
+
+.icon-ditoData {
+    background-image: url("../icon/DashboardData.png");
+}
+
+.icon-users {
+    background-image: url("../icon/icon_users.png");
+}
+
+.icon-user {
+    background-image: url("../icon/icon_user.png");
+}
+
+.icon-board {
+    background-image: url("../icon/icon-board.png");
+}
+
+.icon-buatbaru {
+    background-image: url("../icon/icon-buatbaru.png");
+}
+
+.icon-daftarlapor {
+    background-image: url("../icon/icon-daftarlapor.png");
+}
+
+.icon-kriteria {
+    background-image: url("../icon/icon-kriteria.png");
+}
+
+.icon-lihat {
+    background-image: url("../icon/icon-lihat.png");
+}
+
+.icon-matriks {
+    background-image: url("../icon/icon-matriks.png");
+}
+
+.icon-organisasi {
+    background-image: url("../icon/icon-organisasi.png");
+}
+
+.icon-security {
+    background-image: url("../icon/icon-security.png");
+}
+
+.icon-taxonomy {
+    background-image: url("../icon/icon-taxonomy.png");
+}
+
+.icon-monitorpjbg {
+    background-image: url("../icon/icon-monitorpjbg.png");
+}
+
+.icon-gasin {
+    background-image: url("../icon/icon-gasin.png");
+}
+
+.icon-changestatus {
+    background-image: url("../icon/icon_changestatus.gif");
+}
+
+.icon-save {
+    background-image: url("../icon/icon_save.gif");
+}
+
+.icon-print {
+    background-image: url("../icon/icon_print.gif");
+}
+
+.icon-search {
+    background-image: url("../icon/icon-search.png");
+}
